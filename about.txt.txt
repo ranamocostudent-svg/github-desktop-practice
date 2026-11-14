@@ -1,5 +1,0 @@
-Name: Ryn Chill Ann A. Namoco
-Course: BSIT
-Section: 2C
-Hobbies: Watching movies and listening to music.
-Skills: Learning HTML and GitHub.
